@@ -12,6 +12,7 @@ export const roboto = Roboto({
 }); 
 
 export const lusitana = Lusitana({
-  weight : "400"
+  weight : "400", 
+  subsets : ['latin']
 }); 
 
